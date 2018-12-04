@@ -20,5 +20,6 @@ html, body
 .core h2
 {
 	text-align: center;
-	font-size: 6em;
+	font-size: 3em;
+	color: #6D8FFF;
 }
