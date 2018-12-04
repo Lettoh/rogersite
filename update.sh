@@ -1,2 +1,2 @@
-cd /var/www/site
+cd /var/www/html
 git pull
