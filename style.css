@@ -17,6 +17,11 @@ html, body
 	color: azure;
 }
 
+.core
+{
+	text-align: center;
+}
+
 .core h2
 {
 	text-align: center;
