@@ -19,11 +19,12 @@ html, body
 
 .core
 {
-	margin-top: 10vh;
+	margin-top: 5vh;
 }
 
 .core h2
 {
+	padding-top: 5vh;
 	text-align: center;
 	font-size: 3em;
 	color: #6D8FFF;
