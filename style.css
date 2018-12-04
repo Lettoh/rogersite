@@ -17,6 +17,11 @@ html, body
 	color: azure;
 }
 
+.core
+{
+	margin-top: 10vh;
+}
+
 .core h2
 {
 	text-align: center;
