@@ -17,17 +17,16 @@ html, body
 	color: azure;
 }
 
-.core
-{
-	margin-top: 5vh;
-}
-
 .core h2
 {
-	padding-top: 5vh;
 	text-align: center;
 	font-size: 3em;
 	color: #6D8FFF;
+}
+
+.core p
+{
+	padding-top: 5vh;
 }
 
 footer
