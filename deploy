@@ -3,5 +3,5 @@
 git add *
 git commit -m "$1"
 git push
-ssh fleonard@192.168.56.3 -p 2222 'bash -s' < update.sh
+ssh user@192.168.56.3 -p 2222 'bash -s' < update.sh
 exit
