@@ -31,6 +31,7 @@ footer
 
 footer p
 {
+	padding-top: 3vh;
 	text-align: center;
 	color: azure;
 	font-size: 2em;
