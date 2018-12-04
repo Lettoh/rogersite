@@ -23,3 +23,15 @@ html, body
 	font-size: 3em;
 	color: #6D8FFF;
 }
+
+footer
+{
+	background-color: #222222;
+}
+
+footer p
+{
+	text-align: center;
+	color: azure;
+	font-size: 2em;
+}
