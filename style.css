@@ -5,11 +5,14 @@ html, body
 
 .header
 {
-	background-color: #915478;
+	background-color: #f4c9a6;
 }
 
 .header h1
 {
+	margin-top: 5vh;
+	text-align: center;
+	margin: 0;
 	color: antiquewhite;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
